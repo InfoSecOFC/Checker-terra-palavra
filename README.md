@@ -1,6 +1,6 @@
 Este checker foi criado com o próposito de servir como base parad estudos e, para quem quiser, utilizar em seus trampos.
 
-Créditos: @Russo_171 | @cafe_com_codigo | @InfoSecGroup7
+Créditos & Contato Telegram: @Russo_171 | @cafe_com_codigo | @InfoSecGroup7
 
 Façam bom proveito :)
 
