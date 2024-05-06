@@ -7,6 +7,7 @@ Façam bom proveito :)
 Como usar:
 
 1 - Tenha o Python3 instalado em sua máquina
+
 2 - No terminal, rode o seguinte comando: pip install -r requirements.txt
 
 Após isso o Checker estará pronto para uso
